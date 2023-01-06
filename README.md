@@ -7,7 +7,7 @@ For the equation:
 
 $$ 2xy^2+2xy+x^2y=12 $$
 
-what u=is the slope of the tangent line at $(x,y)=(2,1)$ ? 
+what is the slope of the tangent line at $(x,y)=(2,1)$ ? 
 
 #### Solution
 Using the product rule, we have:
