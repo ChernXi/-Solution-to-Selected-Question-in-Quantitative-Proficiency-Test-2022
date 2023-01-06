@@ -5,7 +5,7 @@ The question number is random and subjected to change, please aim to learn the s
 ## 1.
 For the equation:
 
-$$ 2xy^2+2xy+x^2y $$
+$$ 2xy^2+2xy+x^2y=12 $$
 
 what u=is the slope of the tangent line at $(x,y)=(2,1)$ ? 
 
