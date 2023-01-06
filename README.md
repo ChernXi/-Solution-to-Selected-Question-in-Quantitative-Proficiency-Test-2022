@@ -18,5 +18,6 @@ $$\begin{aligned}
 y' &=\frac{-2y^2-2y-2xy}{4xy+2x+x^2} \\
 \end{aligned}$$
 
-for (x,y)=(2,1), we have:
-$$ y' &=\frac{-2-2-4}{8+4+4} = -\frac{1}{2} $$
+for $ (x,y)=(2,1) $, we have:
+
+$$ y' =\frac{-2-2-4}{8+4+4} = -\frac{1}{2} $$
