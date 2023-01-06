@@ -13,7 +13,7 @@ what u=is the slope of the tangent line at $(x,y)=(2,1)$ ?
 Using the product rule, we have:
 
 $$\begin{aligned}
-\frac{d}{dx} 2xy^2+2xy+x^2y &= 4xyy'+ 2y^2+ 2xy'+ 2y + x^2y' + 2xy= 0 \\ 
+\frac{d}{dx} (2xy^2+2xy+x^2y) &= 4xyy'+ 2y^2+ 2xy'+ 2y + x^2y' + 2xy= 0 \\ 
 (4xy+2x+x^2)y' &= -2y^2-2y-2xy  \\
 y' &=\frac{-2y^2-2y-2xy}{4xy+2x+x^2} \\
 \end{aligned}$$
